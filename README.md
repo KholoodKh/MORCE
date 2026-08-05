@@ -1,0 +1,1 @@
+MORCE is a rule-based ensemble classification framework that combines multiple independently trained classifiers using voting and weighted aggregation strategies. The repository includes data preprocessing, model training, cross-validation, evaluation, and experiment reproducibility scripts used in the accompanying paper.
